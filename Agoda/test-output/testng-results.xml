@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-30T09:23:01 IST" name="Default suite" finished-at="2025-05-30T09:24:42 IST" duration-ms="100479">
+    <groups>
+    </groups>
+    <test started-at="2025-05-30T09:23:01 IST" name="Default test" finished-at="2025-05-30T09:24:42 IST" duration-ms="100479">
+      <class name="AgodaRegistrationTest.SignInWIthOtp">
+        <test-method signature="utility()[pri:0, instance:AgodaRegistrationTest.SignInWIthOtp@644baf4a]" started-at="2025-05-30T09:23:01 IST" name="utility" finished-at="2025-05-30T09:24:42 IST" duration-ms="100415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- utility -->
+      </class> <!-- AgodaRegistrationTest.SignInWIthOtp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
